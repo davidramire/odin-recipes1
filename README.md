@@ -3,6 +3,4 @@ Proyecto
 
 Este es mi primer proyecto en html
 
-Estoy contentoso
-
-sabroso
+Que es de html, css y js

@@ -1,0 +1,35 @@
+div{
+    color: rgb(216, 216, 216);
+    background-color: rgb(34, 0, 0);
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+p{
+    color: white;
+    background-color: green;
+    font-size: 18px;
+}
+
+button{
+    background-color: orange;
+    font-size: 18px;
+}
+
+.parrafo-1{
+    background-color: rgb(238, 146, 161);
+    font-family: sans-serif;
+}
+
+#parrafo-2{
+    color: blue;
+    font-size: 56px;
+}
+
+#parrafo-4{
+    background-color: rgb(109, 218, 109);
+    font-size: 53px;
+
+}
